@@ -9,7 +9,7 @@ export default function NavBar() {
           Investment
         </a>
       </div>
-      <span className="text-xl font-serif lowercase italic tracking-normal">
+      <span className="hidden lg:block text-lg md:text-xl font-serif lowercase italic tracking-normal">
         Keten: The Beast
       </span>
       <div className="flex gap-6">
