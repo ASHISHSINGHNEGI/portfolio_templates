@@ -18,7 +18,7 @@ export default function HomePage() {
         <FeaturedGallery />
 
         {/* Philosophy Section */}
-        {/* <PhilosophySection /> */}
+        <PhilosophySection />
       </main>
 
       {/* Minimal Footer */}
